@@ -1,6 +1,6 @@
 # Introduction-to-Algorithm
 
-AA  $$\hat f$$ 
+AA  $\hat f$ 
 <p>Some Markdown text with <span>some <em>blue</em> text</span>.</p>
 ome Markdown text with <span>some *blue* text</span>.
 
